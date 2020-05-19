@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">weekendTask</string>
+    <string name="name">Benedict Odoh</string>
+    <string name="button">About Me</string>
+    <string name="textview">Benedict Odoh</string>
+    <string name="textview2">I am currently an Undergraduate at Uniben.
+        I am enthusiastic about Tech.
+        I am an aspiring Android Developer.</string>
+    <string name="button3">Say Hello</string>
+</resources>
